@@ -172,7 +172,12 @@ class framework_importer {
         }
 
         $this->foundheaders = $this->importer->get_columns();
-
+        	/*
+			// DEBUG
+			echo "DEBUB :: framework_importer.php :: 176<br />\n";
+			print_object( $this->foundheaders         );
+			exit;
+			*/
         $domainid = 1;
 
         $flat = array();

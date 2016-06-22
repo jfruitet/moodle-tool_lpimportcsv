@@ -26,7 +26,7 @@ That's all!
 
 ## Français
 
-Cet outil d'administration permet l'importation / exportation de référentiels de compétences à partir d'un fichier CSV avec séparateur virgule (',').
+Cet outil d'administration permet l'importation de référentiels de compétences à partir d'un fichier CSV avec séparateur virgule (',').
 
 Il importe et exporte toutes les données des tables mdl_competency_xxx, y compris
 les compétences associées, les barèmes et les règles de validation.
@@ -37,7 +37,7 @@ les compétences associées, les barèmes et les règles de validation.
 * La renommer "lpimportcsv"
 * Copier tout le contenu dans le dossier
 
-	./moodle/admin/tool directory
+	./moodle/admin/tool
 
 * Se loger comme "adminisitrateur"
 * Passez par "Administration du site / Notification"
